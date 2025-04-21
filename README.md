@@ -37,5 +37,8 @@ Farklı renk klanlarıyla yapılan çatışmalardan sonra, Sarı Klan’ın lide
 - Unity (2D)
 - C#
 
-## Oynnaış videosu(Gameplay)
+## Oyunun Reposu
+https://github.com/nicktimur/SariGul
+
+## Oynanış Videosu(Gameplay)
 https://www.youtube.com/watch?v=jnUiT5YGszU
